@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   
 ## 🚀 Check out my latest project — [NextStack](https://www.nextstack.gg)! 
 
@@ -6,7 +6,7 @@
   <img src="https://www.nextstack.gg/opengraph-image" width="500" alt="NextStack OpenGraph Image">
 </a>
 
----
+--- -->
 
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/henriqueBruno.github-repository-manager)](https://marketplace.visualstudio.com/items?itemName=henriqueBruno.github-repository-manager)
 
