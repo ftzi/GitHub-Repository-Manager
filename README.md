@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<!-- 
   
 ## 🚀 Check out my latest project — [NextStack](https://www.nextstack.gg)! 
 
@@ -8,12 +8,17 @@
 
 --- -->
 
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/henriqueBruno.github-repository-manager)](https://marketplace.visualstudio.com/items?itemName=henriqueBruno.github-repository-manager)
 
-</div>
+
 <h1 align="center">
 <b>GitHub Repository Manager</b>
 </h1>
+
+<div align="center">
+  
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/henriqueBruno.github-repository-manager)](https://marketplace.visualstudio.com/items?itemName=henriqueBruno.github-repository-manager)
+
+</div>
 
 <h3 align="center">
 VS Code extension that lists your personal and organizations GitHub repositories, allowing you to clone and access them and create new ones
