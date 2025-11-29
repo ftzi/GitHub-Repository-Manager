@@ -139,18 +139,3 @@ Directories names that are ignored on the search for the cloned repositories. `*
 For developing: clone it, run `npm i`, `npm start` and run the debugger.
 
 </h4>
-
-<br/>
-<h1 align="center"> Donation </h1>
-
-<h3 align="center">
-  Help me to keep and improve this project!
-  <br/>
-</h3>
-
-<!-- Without this div, it wasn't being centered on the marketplace. -->
-<div align="center">
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6P2HYMMC2VWMG">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Paypal">
-</a>
-</div>
