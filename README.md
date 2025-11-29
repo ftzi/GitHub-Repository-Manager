@@ -119,7 +119,7 @@ Directories names that are ignored on the search for the cloned repositories. `*
   </a>
 </h1>
 
-<h1 align="center"> Roadmap </h1>
+<!-- <h1 align="center"> Roadmap </h1>
 
 - Search and clone public repositories
 
@@ -138,4 +138,4 @@ Directories names that are ignored on the search for the cloned repositories. `*
 
 For developing: clone it, run `npm i`, `npm start` and run the debugger.
 
-</h4>
+</h4> -->
