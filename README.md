@@ -10,6 +10,13 @@
 
 
 
+<div align="center">
+
+<br/>
+<img src="images/logo/logo256.png" alt="GitHub Repository Manager logo" width="256" height="256"/>
+
+</div>
+
 <h1 align="center">
 <b>GitHub Repository Manager</b>
 </h1>
